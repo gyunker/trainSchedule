@@ -1,0 +1,13 @@
+.card-heading{
+background-color: rgb(211, 214, 211);
+padding-left: 10px;
+padding-top: 15px;
+}
+
+.jumbotron{
+    background-color: rgb(109, 110, 109);
+    padding-left: 10px;
+    padding-top: 15px;
+    height: 120px;
+    color: white;
+    }
